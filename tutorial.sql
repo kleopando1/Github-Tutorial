@@ -7,3 +7,4 @@ from
 WHERE
   Condition1 = Something
   Condition2 = Something
+  Condition3 = Something Else
